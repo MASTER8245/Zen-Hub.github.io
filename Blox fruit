@@ -1,3 +1,1 @@
-```lua
-https://raw.githubusercontent.com/Kaizenofficiall/ZenHub/main/bloxfrui%20v0.3
-```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MASTER8245/Zen-Hub.github.io/main/Blox%20fruit", true))()
